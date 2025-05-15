@@ -1,9 +1,9 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
-```
- Name: GAUTHAM KRISHNA S
- Register No: 212223240036
-```
+
+ # Name: S.T.DHANAAAKHAASH
+ # Register No: 212224240032
+
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
